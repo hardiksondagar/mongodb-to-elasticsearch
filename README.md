@@ -42,3 +42,8 @@ Set cronjob to run script on every 5 mins
 ```
 */5 * * * * /path-to-your-python-env/bin/python mongodb-to-elasticsearch.py
 ```
+
+### Tested with
+- Python v3.6
+- ElasticSearch v7.9
+- MongoDB v4.2.1
