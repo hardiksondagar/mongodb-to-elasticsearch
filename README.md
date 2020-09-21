@@ -1,2 +1,2 @@
-# mongodb-to-elasticsearch
-Ingest data from Mongodb to Elasticsearch 
+# MongoDB to ElasticSearch
+Ingest data from Mongodb to Elasticsearch

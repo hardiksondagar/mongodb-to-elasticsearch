@@ -1,0 +1,4 @@
+dnspython==2.0.0
+elasticsearch==7.9.1
+progress==1.5
+pymongo==3.11.0
